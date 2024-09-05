@@ -2,11 +2,15 @@
 
 ### Technology Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff)
-![Unocss](https://img.shields.io/badge/Unocss-333?logo=unocss&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=html5&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333?logo=unocss&logoColor=fff)
+![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 
 
 <!---
