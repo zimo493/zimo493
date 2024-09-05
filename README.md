@@ -9,10 +9,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zimo493/zimo493/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zimo493/zimo493/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-  <div>
-    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&theme=dark&layout=compact)
-  </div>
 </div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&theme=dark&layout=compact)
 
 <!---
 zimo493/zimo493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
