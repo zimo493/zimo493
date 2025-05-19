@@ -16,7 +16,7 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake-dark.svg)
 
 <!---
 zimo493/zimo493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
