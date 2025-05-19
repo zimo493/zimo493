@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
 </div>
 
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake.svg)
+
 <!---
 zimo493/zimo493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
