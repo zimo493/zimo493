@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/hello.svg" />
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&theme=dark&layout=compact)
-
 <div align="center">
   <strong>Proficient in</strong>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
