@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Consolas&size=26&pause=1000&lines=Welcome+to+my+GitHub!;console.log('Hello World!')" />
+  <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/hello.svg" />
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&theme=dark&layout=compact)
