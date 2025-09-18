@@ -18,10 +18,12 @@
 
 ![](https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake-dark.svg)
 
+<!---
 <div align="center">
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zimo493&hide_border=true&&bg_color=161B22&show_icons=true&locale=cn"  alt=""/>
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&hide_border=true&&bg_color=161B22&layout=compact&locale=cn"  alt=""/>
 </div>
+--->
 
 <!---
 zimo493/zimo493 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
