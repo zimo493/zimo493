@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm nuyoah</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/hello.svg" alt=""/>
 </p>
@@ -15,12 +17,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt=""/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt=""/>
 </div>
-
-![](https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake-dark.svg)
-
+<br/>
 <div align="center">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zimo493&hide_border=true&&bg_color=161B22&show_icons=true&locale=cn"  alt=""/>
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimo493&hide_border=true&&bg_color=161B22&layout=compact&locale=cn"  alt=""/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zimo493&bg_color=0d1117&color=ffffff&line=409eff&point=eeeeee&hide_border=true&area=true"
+    alt=""
+  />
+  <br/>
+  <img
+    src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/github-contribution-grid-snake-dark.svg"
+    alt=""
+  />
 </div>
 
 <!---
