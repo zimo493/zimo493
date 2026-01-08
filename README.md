@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
    <img
-    src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-3d-contrib/profile-night-green.svg"
     alt=""
   />
   <img
