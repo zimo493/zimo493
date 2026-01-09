@@ -24,7 +24,7 @@
     alt=""
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zimo493&bg_color=0d1117&color=ffffff&line=409eff&point=eeeeee&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=zimo493&bg_color=0d1117&color=fff&line=ffc837&point=efefef&hide_border=true&area=true&area_color=f1e05a"
     alt=""
   />
   <br/>
