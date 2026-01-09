@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nuyoah</h1>
+<h1 align="center">Hi 👋, I'm zimo493</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/hello.svg" alt=""/>
