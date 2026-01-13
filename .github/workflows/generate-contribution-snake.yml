@@ -1,6 +1,6 @@
 # Generate GitHub Contribution Snake for Profile README
 
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
