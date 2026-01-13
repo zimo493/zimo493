@@ -1,4 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# Generate GitHub Contribution Snake for Profile README
 
 name: Generate Snake
 
@@ -23,11 +23,9 @@ jobs:
           outputs: |
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-            ./assets/github-contribution-grid-snake.gif
-            ./assets/github-contribution-grid-snake-dark.gif?palette=github-dark
 
       - name: Push to GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Generate Contribution Snake'
+          commit_message: 'chore: update contribution snake'
           branch: main
