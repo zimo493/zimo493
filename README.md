@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/assets/welcome.svg" alt="Welcome" />
 </p>
 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
