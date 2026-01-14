@@ -39,5 +39,4 @@ jobs:
           commit_message: "chore: update profile snake"
           branch: output-snake
           create_branch: true
-          push_options: "--force"
           file_pattern: profile-snake/*
