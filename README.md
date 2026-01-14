@@ -40,10 +40,10 @@
 <br />
 
 <div align="center">
-    <img
-      src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-snake/github-contribution-grid-snake-dark.svg"
-      alt="GitHub Contribution Snake"
-    />
+  <img
+    src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-snake/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 <!---
