@@ -27,5 +27,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update 3D contribution graph"
-          branch: output-3d
-          create_branch: true
+          branch: main
