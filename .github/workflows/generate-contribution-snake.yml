@@ -37,5 +37,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update profile snake"
-          branch: main
+          branch: output-snake
+          create_branch: true
+          push_options: "--force"
           file_pattern: profile-snake/*
