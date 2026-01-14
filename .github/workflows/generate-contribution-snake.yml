@@ -1,31 +1,41 @@
-# Generate GitHub Contribution Snake for Profile README
-
 name: Generate Contribution Snake
 
 on:
   schedule:
+    # 每天 UTC 00:00（北京时间 08:00）
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+# 防止并发冲突
+concurrency:
+  group: profile-snake
+  cancel-in-progress: true
+
+# 最小必要权限
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate Snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./assets/github-contribution-grid-snake.svg
-            ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile-snake/contribution-snake.svg
+            profile-snake/contribution-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
+      - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update contribution snake'
+          commit_message: "chore: update profile snake"
           branch: main
+          file_pattern: profile-snake/*
