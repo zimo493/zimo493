@@ -41,7 +41,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-snake/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-snake/contribution-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
 </div>
