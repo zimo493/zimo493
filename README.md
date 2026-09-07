@@ -20,7 +20,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-3d-contrib/profile-night-green.svg" alt="Profile Contribution Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimo493&bg_color=0d1117&color=ffffff&line=4FC08D&point=4FC08D&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zimo493&bg_color=0d1117&color=ffffff&line=4FC08D&point=4FC08D&hide_border=true&area=true" alt="GitHub Activity Graph" /> -->
+  <img src="https://streak-stats.demolab.com/?user=zimo493&theme=dark&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/zimo493/zimo493/main/profile-snake/contribution-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
